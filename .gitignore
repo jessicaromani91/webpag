@@ -1,22 +1,122 @@
-# Compiled class file
-*.class
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="portal geoprocessamento da prodemge">
+    <meta name="author" content="cci/prodemge">
+    <link rel="icon" href="images/favicon.ico">
+    <img src="images/logo_geo.png" class="img-rounded" alt="Logo Geoprocessamento" width="154" height="70">
+    <title>Geoprocessamento - Prodemge</title>
+    <logogeo>logo_geo
+    <img src="images/logo_geo.png" class="img-rounded" alt="Logo Geoprocessamento" width="154" height="70">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/offcanvas.css" rel="stylesheet">
+    <style id="style-1-cropbar-clipper">
+        #geomg {
+            font-weight: bold;
+            font-size: 115%;
+        }
+               
+               }
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
 
-# Log file
-*.log
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+.jumbotron {
+    position: relative;
+    background: #000 url("images/fundo.png") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+</style></head>
 
-# BlueJ files
-*.ctxt
+  <body>
+    <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+      <div class="container">
+        <a class="navbar-brand" href="http://geo.prodemge.gov.br">Geoprocessamento</a>
+        <ul class="nav navbar-nav">
+		  <li class="nav-item">&nbsp</li>
+		  <li class="nav-item">&nbsp</li>
+		  <li class="nav-item">&nbsp</li>
+         
+          <li class="nav-item"><a class="nav-link" href="mailto:ggi@prodemge.gov.br">ggi@prodemge.gov.br</a></li>
+          <li class="nav-item"><a class="nav-link" href="">3339-1425</a></li>
+        </ul>
+      </div><!-- /.container -->
+    </nav><!-- /.navbar -->
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+    <div class="container">
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
+      <div class="row row-offcanvas row-offcanvas-right">
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+        <div class="col-xs-12 col-sm-12">
+          <p class="pull-xs-right hidden-sm-up">
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="offcanvas">Toggle nav</button>
+          </p>
+		  <div class="row">
+			  <div class="col-xs-9 col-lg-9">
+				  <div class="jumbotron">
+					<img src="images/logo_geo.png" class="img-rounded" alt="Logo Geoprocessamento" width="154" height="70">
+					<p>&nbsp</p>
+					<p><b>Portal de geoprocessamento da PRODEMGE</b></p>
+				  </div>
+			  </div><!--/span-->
+		  
+			  <div class="col-xs-3 col-lg-3">
+				  <div class="list-group">
+					<a href="http://www.geo.mg.gov.br" class="list-group-item">geo.mg</a>
+					<a href="index_rede.html" class="list-group-item">Projeto de Rede</a>					
+					<a href="http://www.inde.gov.br/" class="list-group-item">INDE</a>
+					<a href="http://www.iga.mg.gov.br/IEDE/" class="list-group-item">IEDE - MG</a>        
+				  </div>
+			</div><!--/span-->
+		</div><!--/row-->
+		
+          <div class="row">
+            <div class="col-xs-6 col-lg-4">
+              <h2>Geo.mg</h2>
+              </div><!--/span-->
+            <div class="col-xs-6 col-lg-4">
+              <h2>Projeto de Rede</h2>
+              <img src="imagens/logo_geo.png" class="img-rounded" alt=Logo Geoprocessamento" width"154" height"70">
+
+			<div class="col-xs-6 col-lg-4">
+              <h2>Capacitação</h2>
+              </div><!--/span-->			
+          </div><!--/row-->
+		  <br/>
+		  <hr>
+
+      <footer>
+        <p>© Prodemge 2017</p>
+      </footer>
+	  
+        </div><!--/span-->
+        </div><!--/span-->
+      </div><!--/row-->
+      </div><!--/.container-->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+	<script src="js/tether.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/offcanvas.js"></script>
+	
+  
+
+</body></html>

@@ -16,9 +16,8 @@
             font-weight: bold;
             font-size: 115%;
         }
-               
-               }
-.en-markup-crop-options {
+	}
+    .en-markup-crop-options {
     top: 18px !important;
     left: 50% !important;
     margin-left: -100px !important;
@@ -69,6 +68,22 @@
 					<img src="images/logo_geo.png" class="img-rounded" alt="Logo Geoprocessamento" width="154" height="70">
 					<p>&nbsp</p>
 					<p><b>Portal de geoprocessamento da PRODEMGE</b></p>
+				  </div>
+				   <div class="row">
+			  <div class="col-xs-9 col-lg-9">
+				  <div class="jumbotron">
+					<img src="images/logo_geo.png" class="img-rounded" alt="Logo Geoprocessamento" width="154" height="70">
+					<p>&nbsp</p>
+					<p><b>Portal de geoprocessamento da PRODEMGE</b></p>
+				  </div>
+			  </div><!--/span-->
+		  
+			  <div class="col-xs-3 col-lg-3">
+				  <div class="list-group">
+					<a href="http://www.geo.mg.gov.br" class="list-group-item">geo.mg</a>
+					<a href="index_rede.html" class="list-group-item">Projeto de Rede</a>					
+					<a href="http://www.inde.gov.br/" class="list-group-item">INDE</a>
+					<a href="http://www.iga.mg.gov.br/IEDE/" class="list-group-item">IEDE - MG</a>        
 				  </div>
 			  </div><!--/span-->
 		  
